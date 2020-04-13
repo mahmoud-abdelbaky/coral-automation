@@ -1,0 +1,8 @@
+automation/pageBase.class
+automation/Entities/addTPAEntity.class
+automation/App.class
+automation/Entities/addProviderEntity.class
+automation/Entities/addAggregatorEntity.class
+automation/Entities/LoginPage.class
+automation/Entities/navigateToEntitiesGrid.class
+automation/utils/eventReporter.class
